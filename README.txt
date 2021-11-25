@@ -1,0 +1,1 @@
+Hello this is Newberry's Odin Landing Page project. For this project I have created a webpage that roughly resembles a template webpage image that was given. This project mostly includes adding flair and style to a webpage using CSS as well as placing content on a webpage via flexbox CSS.
